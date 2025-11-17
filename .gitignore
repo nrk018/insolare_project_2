@@ -39,6 +39,13 @@ coverage/
 ### Uploaded/generated data (optional — adjust if you want to keep them in repo)
 uploads/**/embeddings.csv
 
+### Datasets, uploads and runtime artifacts
+/flaskServer/datasets/
+/backend/uploads/
+/flaskServer/runs/
+/runs/
+
+
 ### Environment files
 .env
 .env.*.local
