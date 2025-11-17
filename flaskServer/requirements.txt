@@ -1,0 +1,12 @@
+opencv-python
+torch
+numpy
+facenet-pytorch
+scikit-learn
+flask
+fastapi
+uvicorn
+tensorflow
+datasketch
+ultralytics
+pandas

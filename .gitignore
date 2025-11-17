@@ -41,7 +41,6 @@ uploads/**/embeddings.csv
 
 ### Datasets, uploads and runtime artifacts
 /flaskServer/datasets/
-/backend/uploads/
 /flaskServer/runs/
 /runs/
 
